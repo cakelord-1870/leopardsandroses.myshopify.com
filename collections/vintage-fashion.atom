@@ -1,0 +1,1704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://leopardsandroses.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://leopardsandroses.myshopify.com/collections/vintage-fashion.atom"/>
+  <title>leopardsandroses</title>
+  <updated>2021-05-20T18:14:11-07:00</updated>
+  <author>
+    <name>leopardsandroses</name>
+  </author>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6681391661239</id>
+    <published>2021-05-20T18:14:11-07:00</published>
+    <updated>2021-05-20T18:14:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t367-bk"/>
+    <title>RJ13-T367-BK</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T367-BK.jpg?v=1618423049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="187" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="187" data-mce-fragment="1">Slash Tie C/S Top</td>
+</tr>
+</tbody>
+</table>
+<table width="268">
+<tbody>
+<tr>
+<td width="268"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681391661239</id>
+      <title>S</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681391661239</id>
+      <title>M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681391661239</id>
+      <title>L</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681391661239</id>
+      <title>XL</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681391661239</id>
+      <title>XXL</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6681388581047</id>
+    <published>2021-05-20T18:14:11-07:00</published>
+    <updated>2021-05-20T18:14:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t367-pe"/>
+    <title>RJ13-T367-PE</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T367-PE.jpg?v=1618422983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="187" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="187" data-mce-fragment="1">Slash Tie C/S Top</td>
+</tr>
+</tbody>
+</table>
+<table width="268">
+<tbody>
+<tr>
+<td width="268"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681388581047</id>
+      <title>S</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-PE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681388581047</id>
+      <title>M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-PE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681388581047</id>
+      <title>L</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-PE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681388581047</id>
+      <title>XL</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-PE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681388581047</id>
+      <title>XXL</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-PE-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6681384091831</id>
+    <published>2021-05-20T18:14:11-07:00</published>
+    <updated>2021-05-20T18:14:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t367-br"/>
+    <title>RJ13-T367-BR</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T367-BR.jpg?v=1618422896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="187" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="187" data-mce-fragment="1">Slash Tie C/S Top</td>
+</tr>
+</tbody>
+</table>
+<table width="268">
+<tbody>
+<tr>
+<td width="268"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681384091831</id>
+      <title>S</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BR-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681384091831</id>
+      <title>M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BR-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681384091831</id>
+      <title>L</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BR-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681384091831</id>
+      <title>XL</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BR-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681384091831</id>
+      <title>XXL</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BR-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6681368166583</id>
+    <published>2021-05-20T18:14:10-07:00</published>
+    <updated>2021-05-20T18:14:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t367-be"/>
+    <title>RJ13-T367-BE</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T367-BE.jpg?v=1618422787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="187" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="187" data-mce-fragment="1">Slash Tie C/S Top</td>
+</tr>
+</tbody>
+</table>
+<table width="268">
+<tbody>
+<tr>
+<td width="268"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681368166583</id>
+      <title>S</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681368166583</id>
+      <title>M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681368166583</id>
+      <title>L</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681368166583</id>
+      <title>XL</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681368166583</id>
+      <title>XS</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>RJ13-T367-BE-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675072647351</id>
+    <published>2021-05-20T18:14:10-07:00</published>
+    <updated>2021-05-20T18:14:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-d409-rd"/>
+    <title>RJ13-D409-RD</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-D409-RD.jpg?v=1618260444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Abstract Dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Dresses</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675072647351</id>
+      <title>S</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-RD-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675072647351</id>
+      <title>M</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-RD-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675072647351</id>
+      <title>L</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-RD-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675072647351</id>
+      <title>XL</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-RD-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675072647351</id>
+      <title>XXL</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-RD-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675071303863</id>
+    <published>2021-05-20T18:14:10-07:00</published>
+    <updated>2021-05-20T18:14:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-d409-bk"/>
+    <title>RJ13-D409-BK</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-D409-BK.jpg?v=1618260387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Abstract Dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Dresses</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675071303863</id>
+      <title>S</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675071303863</id>
+      <title>M</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675071303863</id>
+      <title>L</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675071303863</id>
+      <title>XL</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675071303863</id>
+      <title>XXL</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BK-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675069796535</id>
+    <published>2021-05-20T18:14:09-07:00</published>
+    <updated>2021-05-20T18:14:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-d409-be"/>
+    <title>RJ13-D409-BE</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-D409-BE.jpg?v=1618260320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Abstract Dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Dresses</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675069796535</id>
+      <title>S</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675069796535</id>
+      <title>M</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675069796535</id>
+      <title>L</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675069796535</id>
+      <title>XL</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675069796535</id>
+      <title>XXL</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BE-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675064291511</id>
+    <published>2021-05-20T18:14:09-07:00</published>
+    <updated>2021-05-20T18:14:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-d409-br"/>
+    <title>RJ13-D409-BR</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-D409-BR.jpg?v=1618260179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Abstract Dress</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Dresses</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675064291511</id>
+      <title>S</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BR-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675064291511</id>
+      <title>M</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BR-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675064291511</id>
+      <title>L</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BR-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675064291511</id>
+      <title>XL</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BR-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675064291511</id>
+      <title>XXL</title>
+      <s:price currency="CAD">29.50</s:price>
+      <s:sku>RJ13-D409-BR-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675062096055</id>
+    <published>2021-05-20T18:14:09-07:00</published>
+    <updated>2021-05-20T18:14:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-sk246-pe"/>
+    <title>RJ13-SK246-PE</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-SK246-PE.jpg?v=1618260033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2 Tone Skirt</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Bottoms</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675062096055</id>
+      <title>S</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-PE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675062096055</id>
+      <title>M</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-PE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675062096055</id>
+      <title>L</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-PE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675062096055</id>
+      <title>XL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-PE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675062096055</id>
+      <title>XXL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-PE-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675060359351</id>
+    <published>2021-05-20T18:14:08-07:00</published>
+    <updated>2021-05-20T18:14:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-sk246-bk"/>
+    <title>RJ13-SK246-BK</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-Sk246-BK.jpg?v=1618259982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2 Tone Skirt</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Bottoms</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675060359351</id>
+      <title>S</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-BK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675060359351</id>
+      <title>M</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-BK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675060359351</id>
+      <title>L</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-BK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675060359351</id>
+      <title>XL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-BK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675060359351</id>
+      <title>XXL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-BK-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675055476919</id>
+    <published>2021-05-20T18:14:08-07:00</published>
+    <updated>2021-05-20T18:14:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-sk246-be"/>
+    <title>RJ13-SK246-BE</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-SK246-BE.jpg?v=1618259897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2 Tone Skirt</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Bottoms</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675055476919</id>
+      <title>S</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-BE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675055476919</id>
+      <title>M</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-BE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675055476919</id>
+      <title>L</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-BE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675055476919</id>
+      <title>XL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-BE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675055476919</id>
+      <title>XXL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>RJ13-SK246-BE-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6674998591671</id>
+    <published>2021-05-20T18:14:08-07:00</published>
+    <updated>2021-05-20T18:14:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t369-be"/>
+    <title>RJ13-T369-BE</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T369-BE.jpg?v=1618258360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="187" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="187" data-mce-fragment="1">Butterfly Top</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674998591671</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T369-BE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6674997051575</id>
+    <published>2021-05-20T18:14:07-07:00</published>
+    <updated>2021-05-20T18:14:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t369-br"/>
+    <title>RJ13-T369-BR</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T369-BR.jpg?v=1618258320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="187" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="187" data-mce-fragment="1">Butterfly Top</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674997051575</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T369-BR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6674995478711</id>
+    <published>2021-05-20T18:14:07-07:00</published>
+    <updated>2021-05-20T18:14:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t369-bk"/>
+    <title>RJ13-T369-BK</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T369-BK.jpg?v=1618258273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="187" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="187" data-mce-fragment="1">Butterfly Top</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674995478711</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T369-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6773257535671</id>
+    <published>2021-05-20T18:07:10-07:00</published>
+    <updated>2021-05-20T18:07:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj12-d133-ru"/>
+    <title>RJ12-D133-RU</title>
+    <s:type>Vintage Dresses</s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ12-D133-RU.jpg?v=1621559254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong>Vintage Dresses<br>
+        <strong>Price: </strong>
+            49.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="268" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="268" data-mce-fragment="1">Tulip Print Applique Dress</td>
+</tr>
+</tbody>
+</table>
+<table width="268">
+<tbody>
+<tr>
+<td width="268"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Dresses</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6773257535671</id>
+      <title>S</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku>RJ12-D133-RU-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6773257535671</id>
+      <title>M</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku>RJ12-D133-RU-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6773257535671</id>
+      <title>L</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku>RJ12-D133-RU-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6773257535671</id>
+      <title>XL</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku>RJ12-D133-RU-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6773257535671</id>
+      <title>XXL</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku>RJ12-D133-RU-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6681360728247</id>
+    <published>2021-05-20T18:06:47-07:00</published>
+    <updated>2021-05-20T18:06:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj12-d133-bk"/>
+    <title>RJ12-D133-BK</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ12-D133.jpg?v=1618422491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="268" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="268" data-mce-fragment="1">Tulip Print Applique Dress</td>
+</tr>
+</tbody>
+</table>
+<table width="268">
+<tbody>
+<tr>
+<td width="268"></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681360728247</id>
+      <title>S</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681360728247</id>
+      <title>M</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681360728247</id>
+      <title>L</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku>RJ12-D133-BK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681360728247</id>
+      <title>XL</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku>RJ-D133-BK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6681360728247</id>
+      <title>XS</title>
+      <s:price currency="CAD">49.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6674925551799</id>
+    <published>2021-05-20T18:02:52-07:00</published>
+    <updated>2021-05-20T18:02:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-sk177-rd"/>
+    <title>RJ13-SK177-RD</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-SK177-RD.jpg?v=1621558951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tulip Skirt</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Bottoms</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674925551799</id>
+      <title>S</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-RD-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674925551799</id>
+      <title>M</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-RD-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674925551799</id>
+      <title>L</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-RD-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674925551799</id>
+      <title>XL</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-RD-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674925551799</id>
+      <title>XXL</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-RD-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6674920538295</id>
+    <published>2021-05-20T18:01:14-07:00</published>
+    <updated>2021-05-20T18:01:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-sk177-pe"/>
+    <title>RJ13-SK177-PE</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-SK177-BL.jpg?v=1621558866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tulip Skirt</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Bottoms</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674920538295</id>
+      <title>S</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-PE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674920538295</id>
+      <title>M</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-PE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674920538295</id>
+      <title>L</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-PE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674920538295</id>
+      <title>XL</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-PE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674920538295</id>
+      <title>XXL</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-PE-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6674923946167</id>
+    <published>2021-05-20T18:00:32-07:00</published>
+    <updated>2021-05-20T18:00:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-sk177-br"/>
+    <title>RJ13-SK177-BR</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-SK177-BR_3a5d175c-a408-4df5-a6cc-07c3dd93fca7.jpg?v=1621558822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tulip Skirt</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Bottoms</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674923946167</id>
+      <title>S</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-BR-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674923946167</id>
+      <title>M</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-BR-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674923946167</id>
+      <title>L</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-BR-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674923946167</id>
+      <title>XL</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-BR-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674923946167</id>
+      <title>XXL</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-BR-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6674912084151</id>
+    <published>2021-05-20T17:59:47-07:00</published>
+    <updated>2021-05-20T17:59:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-sk177-bk"/>
+    <title>RJ13-SK177-BK</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-SK177-BK.jpg?v=1618256011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tulip Skirt</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Bottoms</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674912084151</id>
+      <title>S</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-BK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674912084151</id>
+      <title>M</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-BK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674912084151</id>
+      <title>L</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-BK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674912084151</id>
+      <title>XL</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-BK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674912084151</id>
+      <title>XXL</title>
+      <s:price currency="CAD">39.50</s:price>
+      <s:sku>RJ13-SK177-BK-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675040600247</id>
+    <published>2021-05-20T17:58:51-07:00</published>
+    <updated>2021-05-20T17:58:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t407-rd"/>
+    <title>RJ13-T407-RD</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T407-RD.jpg?v=1621558717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tulip Tunic Top</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675040600247</id>
+      <title>S</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-RD-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675040600247</id>
+      <title>M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-RD-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675040600247</id>
+      <title>L</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-RD-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675040600247</id>
+      <title>XL</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-RD-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675040600247</id>
+      <title>XXL</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-RD-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675047776439</id>
+    <published>2021-05-20T17:58:00-07:00</published>
+    <updated>2021-05-20T17:58:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t407-pe"/>
+    <title>RJ13-T407-PE</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T407-BL.jpg?v=1621558672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tulip Tunic Top</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675047776439</id>
+      <title>S</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-PE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675047776439</id>
+      <title>M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-PE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675047776439</id>
+      <title>L</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-PE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675047776439</id>
+      <title>XL</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-PE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675047776439</id>
+      <title>XXL</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-PE-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675051413687</id>
+    <published>2021-05-20T17:57:11-07:00</published>
+    <updated>2021-05-20T17:57:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t407-br"/>
+    <title>RJ13-T407-BR</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T407-BR.jpg?v=1621558611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tulip Tunic Top</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675051413687</id>
+      <title>S</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-BR-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675051413687</id>
+      <title>M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-BR-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675051413687</id>
+      <title>L</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-BR-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675051413687</id>
+      <title>XL</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-BR-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675051413687</id>
+      <title>XXL</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-BR-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6675050234039</id>
+    <published>2021-05-20T17:56:08-07:00</published>
+    <updated>2021-05-20T17:56:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj13-t407-bk"/>
+    <title>RJ13-T407-BK</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ13-T407-BK.jpg?v=1621558550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tulip Tunic Top</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675050234039</id>
+      <title>S</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-BK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675050234039</id>
+      <title>M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-BK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675050234039</id>
+      <title>L</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-BK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675050234039</id>
+      <title>XL</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-BK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6675050234039</id>
+      <title>XXL</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RJ13-T407-BK-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leopardsandroses.myshopify.com/products/6674981781687</id>
+    <published>2021-05-05T12:25:21-07:00</published>
+    <updated>2021-05-05T12:25:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://leopardsandroses.myshopify.com/products/rj11-t106-pu"/>
+    <title>RJ11-T106-PU</title>
+    <s:type></s:type>
+    <s:vendor>leopardsandroses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1275/5005/products/RJ11-T106Purple.jpg?v=1618427362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>leopardsandroses<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="215">
+<tbody>
+<tr>
+<td width="215">Dot Tank Top</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Vintage Tops</s:tag>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674981781687</id>
+      <title>S</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>RJ11-T106-PU-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674981781687</id>
+      <title>M</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>RJ11-T106-PU-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674981781687</id>
+      <title>L</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>RJ11-T106-PU-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674981781687</id>
+      <title>XL</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>RJ11-T106-PU-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leopardsandroses.myshopify.com/products/6674981781687</id>
+      <title>XXL</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>RJ11-T106-PU-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
